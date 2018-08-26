@@ -1,4 +1,4 @@
-﻿{
+{
   "version": 1,
   "keyboard": {
     "keys": [
@@ -22,7 +22,24 @@
         },
         "row": 0,
         "col": 0,
-        "keycodes": [{ "id": "KC_SPC", "fields": [] }]
+        "keycodes": [
+          { "id": "MO()", "fields": [1] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 1,
@@ -44,7 +61,24 @@
         },
         "row": 0,
         "col": 12,
-        "keycodes": [{ "id": "KC_ENT", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_ENT", "fields": [] },
+          { "id": "BL_INC", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 2,
@@ -66,7 +100,24 @@
         },
         "row": 1,
         "col": 0,
-        "keycodes": [{ "id": "KC_LCTL", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_LCTL", "fields": [] },
+          { "id": "KC_SPC", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 3,
@@ -88,7 +139,24 @@
         },
         "row": 0,
         "col": 1,
-        "keycodes": [{ "id": "KC_1", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_1", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 4,
@@ -110,7 +178,24 @@
         },
         "row": 0,
         "col": 2,
-        "keycodes": [{ "id": "KC_2", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_2", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 5,
@@ -132,7 +217,24 @@
         },
         "row": 0,
         "col": 3,
-        "keycodes": [{ "id": "KC_3", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_3", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 6,
@@ -154,7 +256,24 @@
         },
         "row": 0,
         "col": 4,
-        "keycodes": [{ "id": "KC_4", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_4", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 7,
@@ -176,7 +295,24 @@
         },
         "row": 0,
         "col": 8,
-        "keycodes": [{ "id": "KC_F1", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F1", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 8,
@@ -198,7 +334,24 @@
         },
         "row": 0,
         "col": 9,
-        "keycodes": [{ "id": "KC_F2", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F2", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 9,
@@ -220,7 +373,24 @@
         },
         "row": 0,
         "col": 10,
-        "keycodes": [{ "id": "KC_F3", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F3", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 10,
@@ -242,7 +412,24 @@
         },
         "row": 0,
         "col": 11,
-        "keycodes": [{ "id": "KC_F4", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F4", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 11,
@@ -264,7 +451,24 @@
         },
         "row": 1,
         "col": 12,
-        "keycodes": [{ "id": "KC_Y", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_Y", "fields": [] },
+          { "id": "BL_TOGG", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 12,
@@ -286,7 +490,24 @@
         },
         "row": 2,
         "col": 0,
-        "keycodes": [{ "id": "KC_LSFT", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_LSFT", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 13,
@@ -308,7 +529,24 @@
         },
         "row": 1,
         "col": 1,
-        "keycodes": [{ "id": "KC_5", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_5", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 14,
@@ -330,7 +568,24 @@
         },
         "row": 1,
         "col": 2,
-        "keycodes": [{ "id": "KC_6", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_6", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 15,
@@ -352,7 +607,24 @@
         },
         "row": 1,
         "col": 3,
-        "keycodes": [{ "id": "KC_7", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_7", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 16,
@@ -374,7 +646,24 @@
         },
         "row": 1,
         "col": 4,
-        "keycodes": [{ "id": "KC_8", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_8", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 17,
@@ -396,7 +685,24 @@
         },
         "row": 1,
         "col": 8,
-        "keycodes": [{ "id": "KC_F5", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F5", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 18,
@@ -418,7 +724,24 @@
         },
         "row": 1,
         "col": 9,
-        "keycodes": [{ "id": "KC_F6", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F6", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 19,
@@ -440,7 +763,24 @@
         },
         "row": 1,
         "col": 10,
-        "keycodes": [{ "id": "KC_F7", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F7", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 20,
@@ -462,7 +802,24 @@
         },
         "row": 1,
         "col": 11,
-        "keycodes": [{ "id": "KC_F8", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F8", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 21,
@@ -484,7 +841,24 @@
         },
         "row": 2,
         "col": 12,
-        "keycodes": [{ "id": "KC_Z", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_Z", "fields": [] },
+          { "id": "BL_DEC", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 22,
@@ -506,7 +880,24 @@
         },
         "row": 3,
         "col": 0,
-        "keycodes": [{ "id": "KC_COMM", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_COMM", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 23,
@@ -529,7 +920,24 @@
         },
         "row": 2,
         "col": 2,
-        "keycodes": [{ "id": "KC_B", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_B", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 24,
@@ -552,7 +960,24 @@
         },
         "row": 2,
         "col": 3,
-        "keycodes": [{ "id": "KC_D", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_D", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 25,
@@ -575,7 +1000,24 @@
         },
         "row": 2,
         "col": 4,
-        "keycodes": [{ "id": "KC_F", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_F", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 26,
@@ -598,7 +1040,24 @@
         },
         "row": 2,
         "col": 5,
-        "keycodes": [{ "id": "KC_I", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_I", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 27,
@@ -621,7 +1080,24 @@
         },
         "row": 2,
         "col": 6,
-        "keycodes": [{ "id": "KC_K", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_K", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 28,
@@ -644,7 +1120,24 @@
         },
         "row": 2,
         "col": 7,
-        "keycodes": [{ "id": "KC_N", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_N", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 29,
@@ -667,7 +1160,24 @@
         },
         "row": 2,
         "col": 8,
-        "keycodes": [{ "id": "KC_P", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_P", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 30,
@@ -690,7 +1200,24 @@
         },
         "row": 2,
         "col": 9,
-        "keycodes": [{ "id": "KC_R", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_R", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 31,
@@ -713,7 +1240,24 @@
         },
         "row": 2,
         "col": 10,
-        "keycodes": [{ "id": "KC_U", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_U", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 32,
@@ -736,7 +1280,24 @@
         },
         "row": 2,
         "col": 11,
-        "keycodes": [{ "id": "KC_W", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_W", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 33,
@@ -759,7 +1320,24 @@
         },
         "row": 3,
         "col": 1,
-        "keycodes": [{ "id": "KC_DOT", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_DOT", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 34,
@@ -782,7 +1360,24 @@
         },
         "row": 3,
         "col": 2,
-        "keycodes": [{ "id": "KC_A", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_A", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 35,
@@ -805,7 +1400,24 @@
         },
         "row": 3,
         "col": 3,
-        "keycodes": [{ "id": "KC_C", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_C", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 36,
@@ -828,7 +1440,24 @@
         },
         "row": 3,
         "col": 4,
-        "keycodes": [{ "id": "KC_E", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_E", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 37,
@@ -851,7 +1480,24 @@
         },
         "row": 1,
         "col": 5,
-        "keycodes": [{ "id": "KC_G", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_G", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 38,
@@ -874,7 +1520,24 @@
         },
         "row": 3,
         "col": 5,
-        "keycodes": [{ "id": "KC_H", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_H", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 39,
@@ -897,7 +1560,24 @@
         },
         "row": 1,
         "col": 6,
-        "keycodes": [{ "id": "KC_J", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_J", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 40,
@@ -920,7 +1600,24 @@
         },
         "row": 3,
         "col": 6,
-        "keycodes": [{ "id": "KC_L", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_L", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 41,
@@ -943,7 +1640,24 @@
         },
         "row": 1,
         "col": 7,
-        "keycodes": [{ "id": "KC_M", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_M", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 42,
@@ -966,7 +1680,24 @@
         },
         "row": 3,
         "col": 7,
-        "keycodes": [{ "id": "KC_O", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_O", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 43,
@@ -989,7 +1720,24 @@
         },
         "row": 3,
         "col": 8,
-        "keycodes": [{ "id": "KC_Q", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_Q", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 44,
@@ -1012,7 +1760,24 @@
         },
         "row": 3,
         "col": 9,
-        "keycodes": [{ "id": "KC_S", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_S", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 45,
@@ -1035,7 +1800,24 @@
         },
         "row": 3,
         "col": 10,
-        "keycodes": [{ "id": "KC_T", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_T", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 46,
@@ -1058,7 +1840,24 @@
         },
         "row": 3,
         "col": 11,
-        "keycodes": [{ "id": "KC_V", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_V", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       },
       {
         "id": 47,
@@ -1081,7 +1880,24 @@
         },
         "row": 3,
         "col": 12,
-        "keycodes": [{ "id": "KC_X", "fields": [] }]
+        "keycodes": [
+          { "id": "KC_X", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_TRNS", "fields": [] }
+        ]
       }
     ],
     "controller": 1,
@@ -1101,7 +1917,7 @@
         "E6",
         "B4",
         "B5",
-        "B6",
+        "B1",
         "B2",
         "B3"
       ],
@@ -1110,7 +1926,7 @@
       "scroll": null,
       "compose": null,
       "kana": null,
-      "led": null,
+      "led": "B6",
       "rgb": null
     },
     "macros": {},
