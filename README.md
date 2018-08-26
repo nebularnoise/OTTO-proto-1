@@ -1,5 +1,9 @@
 # OTTO-proto-1
 
+<img src="images/1.jpg" width="320px"><img src="images/2.jpg" width="320px">
+<img src="images/3.jpg" width="320px"><img src="images/4.jpg" width="320px">
+
+
 Hardware descriptions and files for the OTTO PROTO  #1
 
 Here's the rough BOM for this first prototype:
